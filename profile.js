@@ -4,7 +4,7 @@ module.exports = [
     headline:
       "Frontend & Fullstack Developer | Growth Engineer | ReactJS & Ruby on Rails | Working in American Timezones",
     professionalSummary:
-      "Developer with an Associate Degree in Computer Programming. I'm focused on Growth Engineering && Frontend Development, bringing over 4 years of professional experience across various industries, including e-commerce and e-tech. I've collaborated closely with designers, marketers and analysts, honing strong skills in cross-functional teamwork. I'm passionate about continuous learning and relish tackling technological challenges with creativity and efficiency. I'm committed to Sustainable Software Engineering, focusing on adopting best practices to maintain clean code, eliminate unused assets and files, and optimize resources for greater efficiency and a smaller environmental footprint. Additionally, I strive for pixel-perfect designs, keeping an eye on SEO and Performance, as they are crucial factors for an excellent quality score.",
+      "Developer with an Associate Degree in Computer Programming. I'm focused on Growth Engineering && Frontend Development, bringing over 4 years of professional experience across various industries, including e-commerce and e-tech. I've collaborated closely with designers, marketers and analysts, honing strong skills in cross-functional teamwork. I'm passionate about continuous learning and relish tackling technological challenges with creativity and efficiency. I'm committed to Sustainable Software Engineering, focusing on adopting best practices to maintain clean code, eliminate unused assets and files, and optimize resources for greater efficiency and a smaller environmental footprint. Additionally, I strive for pixel-perfect designs, keeping an eye on SEO and Performance, as they are crucial factors for a great Quality Score.",
     currentLocation: "Mendoza, Argentina",
     contact: {
       phoneNumber: "+54 9 (261) 156 915 552",
@@ -25,7 +25,7 @@ module.exports = [
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/celeste-zapata",
+        url: "https://www.linkedin.com/in/zetadeceleste",
       },
       {
         name: "Upwork",
