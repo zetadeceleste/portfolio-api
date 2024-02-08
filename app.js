@@ -2,13 +2,14 @@ const express = require("express");
 
 const app = express();
 const cors = require("cors");
-const additionalInformation = require("./additional-information");
-const experience = require("./experience");
-const hobbies = require("./hobbies");
-const languages = require("./languages");
-const profile = require("./profile");
-const volunteering = require("./volunteering");
-const websiteData = require("./website-data");
+
+const additionalInformation = require("./data/additional-information");
+const experience = require("./data/experience");
+const hobbies = require("./data/hobbies");
+const languages = require("./data/languages");
+const profile = require("./data/profile");
+const volunteering = require("./data/volunteering");
+const websiteData = require("./data/website-data");
 
 app.use(cors());
 
@@ -44,4 +45,4 @@ app.get("/website-data", (req, res) => {
   res.json(websiteData);
 });
 
-app.listen(4000, () => console.log("Server started, probably on port 4000 ;-)"));
+app.listen(4000, () => console.log("Server started, port 4000."));
