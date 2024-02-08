@@ -156,6 +156,13 @@ module.exports = [
       "Configured Digital Marketing tools, including catalog creation and web event tracking for Facebook and Google (Facebook Pixel, gtag), driving increased online visibility and engagement.",
       "Developed pure HTML templates for company mailings and configured SMTP settings (Sendgrid, Mailchimp), optimizing email campaigns.",
       "Analyzed competitors and applied strategic insights to improve website usability and customer journey.",
+      "Assumed responsibility for on-call duties to maintain website stability and prevent failures during peak traffic times.",
+    ],
+    achievements: [
+      "Integrated Schema.org to enable Google to recognize and list products in its Shopping section, enhancing product visibility.",
+      "Successfully implemented Facebook Pixel in conjunction with Schema.org and Json-LD, allowing products to be featured on both Facebook and Instagram, improving user experience and ultimately boosting sales.",
+      "Implemented best SEO practices, achieving a 100% score on the Homepage, optimizing the site's search engine ranking and visibility.",
+      "Utilized Hotjar to analyze user behavior, enabling targeted testing of different site sections. This data-driven approach led to multiple design iterations, significantly improving user experience (UX).",
     ],
     stack: [
       "ReactJS",
