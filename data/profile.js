@@ -79,7 +79,6 @@ module.exports = [
       "Spree ecommerce",
       "styled-components",
       "Svelte",
-      "Tailwind CSS",
       "Teams",
       "Trello",
       "TypeScript",
